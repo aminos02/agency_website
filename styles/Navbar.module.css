@@ -1,0 +1,20 @@
+.container{
+    height:50px;
+    background-color: black;
+    color:white;
+    padding: 0 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+.list{
+    list-style: none;
+}
+.listItem{
+    display:inline;
+    color:lightgray;
+    font-size: 14px;
+    margin-right: 30px;
+}
