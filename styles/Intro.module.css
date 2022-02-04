@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  height: calc(100vh - 50px);
+    overflow: hidden;
+    position: relative;
+}
+.card {
+    flex: 1;
+    padding: 100px;
+    padding-right: 0px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.title {
+  font-size: 50px;
+  margin: 0;
+}
+.brand {
+  color: green;
+}
+
+.desc {
+  font-size: 20px;
+}  
+
+.button {
+  border: none;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  padding: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}

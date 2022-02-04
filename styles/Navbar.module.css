@@ -8,7 +8,10 @@
     justify-content: space-between;
     font-size: 18px;
 }
-
+.logo{
+    font-size:25px;
+    color: rgb(143, 245, 143);
+}
 .list{
     list-style: none;
 }
